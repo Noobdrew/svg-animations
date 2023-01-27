@@ -1,3 +1,2 @@
-# svg-animations
- 
-<a href='https://noobdrew.github.io/svg-animations/'>Check out the animations</a>
+<a href='https://noobdrew.github.io/svg-animations/'># svg-animations</a>
+
